@@ -30,3 +30,5 @@
 # Additional
 /.idea/
 /cmake-build-debug/
+/.vs/
+/out/
